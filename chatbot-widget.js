@@ -12,7 +12,8 @@
                 route: 'general'
             },
             branding: {
-                logo: 'https://raw.githubusercontent.com/AutomatikoAI/chatbot-widget/refs/heads/main/logo.jpg',
+                //logo: 'https://raw.githubusercontent.com/AutomatikoAI/chatbot-widget/refs/heads/main/logo.jpg',
+                logo: 'https://png.pngtree.com/png-vector/20240311/ourmid/pngtree-a-big-tree-with-green-leaf-on-transparent-background-genrative-ai-png-image_11931910.png',
                 name: 'Zamna Real Estate Assistant',
                 welcomeText: 'Hello! How can I help you?',
                 // responseTimeText: 'We typically respond right away',
