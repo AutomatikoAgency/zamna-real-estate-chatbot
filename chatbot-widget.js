@@ -302,8 +302,8 @@
                 position: absolute;
                 top: 5px;
                 right: 9px;
-                width: 12px;
-                height: 12px;
+                width: 14px;
+                height: 14px;
                 background-color: #00d084;
                 border-radius: 50%;
                 border: 2px solid #ffffff;
